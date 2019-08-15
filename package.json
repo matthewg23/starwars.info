@@ -1,0 +1,23 @@
+{
+  "name": "starwars.info",
+  "version": "1.0.0",
+  "description": "A star wars character app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "starwars.info"
+  },
+  "keywords": [
+    "star",
+    "wars"
+  ],
+  "author": "Matt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
